@@ -1,0 +1,2 @@
+rootProject.name = "Dados De La Suerte"
+include ':app'

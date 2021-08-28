@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dados De La Suerte</string>
+    <string name="img">Imagen</string>
+    <string name="btn">Jugar</string>
+    <string name="vacio"></string>
+    <string name="dado">- -</string>
+    <string name="s1">Mayor de edad</string>
+    <string name="s2">Intentos restantes:</string>
+</resources>
